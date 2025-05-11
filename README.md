@@ -49,4 +49,4 @@ SoftSell is a single-page responsive marketing website for a fictional software 
 - Enhance animations with scroll-based triggers.
 - Add unit tests for form validation and chat functionality.
 
-Built with ❤️ by [Your Name]
+Built with ❤️ by [Debjit Dey]
